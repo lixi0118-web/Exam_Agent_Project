@@ -1,0 +1,4 @@
+北京邮电大学《数据库系统原理》期末考试大纲与核心考点：
+1. 核心概念：数据库事务的 ACID 特性。学生必须掌握原子性（Atomicity）、一致性（Consistency）、隔离性（Isolation）和持久性（Durability）的定义。
+2. 核心技能：SQL语言的高级查询。重点考察 SELECT 语句中的多表连接（JOIN）、分组统计（GROUP BY）与筛选（HAVING）。
+3. 实践要求：掌握使用 openGauss 数据库进行数据恢复与备份的基本逻辑。
